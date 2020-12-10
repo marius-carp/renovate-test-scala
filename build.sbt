@@ -33,6 +33,6 @@ credentials += Credentials("Artifactory Realm", "mariuscarp.jfrog.io", "marius.c
 // Sefaira dependencies
 libraryDependencies ++= Seq(
   "com.frunza"                 %% "lib-accounts"             %  "0.1",
-  "com.typesafe.akka"          %% "akka-actor"               %  "2.6.9"
+  "com.typesafe.akka"          %% "akka-actor"               %  "2.6.10"
 
 )
