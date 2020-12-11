@@ -28,5 +28,6 @@
   ],
   "sbt": {
     "enabled": true
-  }
+  },
+  "bumpVersion": "patch"
 }
